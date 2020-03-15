@@ -1,5 +1,4 @@
-
-###PYTHON WEEK 8 ASSIGNMENT
+### PYTHON WEEK 8 ASSIGNMENT
 
 Question 1:
 Create nine empty text files with pathnames day1.txt, day2.txt, ……., day9.txt . 
